@@ -1,0 +1,15 @@
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Modelos\bin\Debug\net7.0\SistemaInventarioV7.Modelos.deps.json
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Modelos\bin\Debug\net7.0\SistemaInventarioV7.Modelos.dll
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Modelos\bin\Debug\net7.0\SistemaInventarioV7.Modelos.pdb
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Modelos\bin\Debug\net7.0\SistemaInventarioV7.Utilidades.dll
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Modelos\bin\Debug\net7.0\SistemaInventarioV7.Utilidades.pdb
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\SistemaInventarioV7.Modelos.csproj.AssemblyReference.cache
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\SistemaInventarioV7.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\SistemaInventarioV7.Modelos.AssemblyInfoInputs.cache
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\SistemaInventarioV7.Modelos.AssemblyInfo.cs
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\SistemaInventarioV7.Modelos.csproj.CoreCompileInputs.cache
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\SistemaInventarioV7.Modelos.csproj.CopyComplete
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\SistemaInventarioV7.Modelos.dll
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\refint\SistemaInventarioV7.Modelos.dll
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\SistemaInventarioV7.Modelos.pdb
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Modelos\obj\Debug\net7.0\ref\SistemaInventarioV7.Modelos.dll

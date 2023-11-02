@@ -1,0 +1,17 @@
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\SistemaInventarioV7.AccesoDatos.csproj.AssemblyReference.cache
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\SistemaInventarioV7.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\SistemaInventarioV7.AccesoDatos.AssemblyInfoInputs.cache
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\SistemaInventarioV7.AccesoDatos.AssemblyInfo.cs
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\SistemaInventarioV7.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\bin\Debug\net7.0\SistemaInventarioV7.AccesoDatos.deps.json
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\bin\Debug\net7.0\SistemaInventarioV7.AccesoDatos.dll
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\bin\Debug\net7.0\SistemaInventarioV7.AccesoDatos.pdb
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\bin\Debug\net7.0\SistemaInventarioV7.Modelos.dll
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\bin\Debug\net7.0\SistemaInventarioV7.Utilidades.dll
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\bin\Debug\net7.0\SistemaInventarioV7.Modelos.pdb
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\bin\Debug\net7.0\SistemaInventarioV7.Utilidades.pdb
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\SistemaInventarioV7.AccesoDatos.csproj.CopyComplete
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\SistemaInventarioV7.AccesoDatos.dll
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\refint\SistemaInventarioV7.AccesoDatos.dll
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\SistemaInventarioV7.AccesoDatos.pdb
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.AccesoDatos\obj\Debug\net7.0\ref\SistemaInventarioV7.AccesoDatos.dll

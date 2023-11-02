@@ -1,0 +1,11 @@
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Utilidades\bin\Debug\net7.0\SistemaInventarioV7.Utilidades.deps.json
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Utilidades\bin\Debug\net7.0\SistemaInventarioV7.Utilidades.dll
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Utilidades\bin\Debug\net7.0\SistemaInventarioV7.Utilidades.pdb
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Utilidades\obj\Debug\net7.0\SistemaInventarioV7.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Utilidades\obj\Debug\net7.0\SistemaInventarioV7.Utilidades.AssemblyInfoInputs.cache
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Utilidades\obj\Debug\net7.0\SistemaInventarioV7.Utilidades.AssemblyInfo.cs
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Utilidades\obj\Debug\net7.0\SistemaInventarioV7.Utilidades.csproj.CoreCompileInputs.cache
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Utilidades\obj\Debug\net7.0\SistemaInventarioV7.Utilidades.dll
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Utilidades\obj\Debug\net7.0\refint\SistemaInventarioV7.Utilidades.dll
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Utilidades\obj\Debug\net7.0\SistemaInventarioV7.Utilidades.pdb
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7.Utilidades\obj\Debug\net7.0\ref\SistemaInventarioV7.Utilidades.dll
