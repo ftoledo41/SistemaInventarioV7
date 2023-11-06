@@ -13,14 +13,13 @@
         </div>
     </div>
 </header>
-
+@* busqueda y BusquedaActual, vienen de HomeControle, *@
 <section class="mb-5">
     <div class="container my-2">
         <form asp-action="Index" method="get">
             <div class="col-lg-6 col-md-6 col-sm-6 d-flex">
                 <div class="input-group mb-3">
-                    <input type="text" class="form-control" placeholder="Buscar ..." aria-label="Buscar" aria-describedby="button-addon2"
-                    @* busqueda y BusquedaActual, vienen de HomeControle, *@
+                    <input type="text" class="form-control" placeholder="Buscar ..." aria-label="Buscar" aria-describedby="button-addon2"                    
                            name="busqueda" value="@ViewData["BusquedaActual"]" />
                     <button type="submit" class="btn btn-outline-primary">
                         <i class="bi bi-search"></i>

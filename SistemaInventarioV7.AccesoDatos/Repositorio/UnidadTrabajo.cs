@@ -1,5 +1,6 @@
 ﻿using SistemaInventarioV7.AccesoDatos.Data;
 using SistemaInventarioV7.AccesoDatos.Repositorio.IRepositorio;
+using SistemaInventarioV7.Modelos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,6 +16,7 @@ namespace SistemaInventarioV7.AccesoDatos.Repositorio
         public ICategoriaRepositorio Categoria { get; private set; }
         public IMarcaRepositorio Marca { get; private set; }
         public IProductoRepositorio Producto { get; private set; }
+        public IUsuarioAplicacionRepositorio UsuarioAplicacion { get; private set; }
         public UnidadTrabajo(ApplicationDbContext db)
         {
             _db = db;
@@ -22,6 +24,7 @@ namespace SistemaInventarioV7.AccesoDatos.Repositorio
             Categoria = new CategoriaRepositorio(_db);
             Marca = new MarcaRepositorio(_db);
             Producto = new ProductoRepositorio(_db);
+            UsuarioAplicacion = new UsuarioAplicacionRepositorio(_db);
         }
         public void Dispose()
         {
