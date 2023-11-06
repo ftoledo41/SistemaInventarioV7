@@ -2,7 +2,10 @@
 using SistemaInventarioV7.AccesoDatos.Repositorio.IRepositorio;
 using SistemaInventarioV7.Modelos;
 using SistemaInventarioV7.Modelos.ErrorViewModels;
+using SistemaInventarioV7.Modelos.Especificaciones;
+using SistemaInventarioV7.Utilidades;
 using System.Diagnostics;
+using System.Security.Claims;
 
 namespace SistemaInventarioV7.Areas.Inventario.Controllers
 {
@@ -19,10 +22,57 @@ namespace SistemaInventarioV7.Areas.Inventario.Controllers
             _unidadTrabajo = unidadTrabajo;
         }
 
-        public async Task<IActionResult> Index()
+        public IActionResult Index(int pageNumber = 1, string busqueda = "", string busquedaActual = "")
         {
-            IEnumerable<Producto> podructoLista = await _unidadTrabajo.Producto.ObtenerTodos();
-            return View(podructoLista);
+            //
+
+            // Controlar sesion
+            //var claimIdentity = (ClaimsIdentity)User.Identity;
+            //var claim = claimIdentity.FindFirst(ClaimTypes.NameIdentifier);
+            //if (claim != null)
+            //{
+            //    var carroLista = await _unidadTrabajo.CarroCompra.ObtenerTodos(c => c.UsuarioAplicacionId == claim.Value);
+            //    var numeroProductos = carroLista.Count();  // Numero de Registros
+            //    HttpContext.Session.SetInt32(DS.ssCarroCompras, numeroProductos);
+            //}
+
+            ////
+            if (!String.IsNullOrEmpty(busqueda))
+            {
+                pageNumber = 1;
+            }
+            else
+            {
+                busqueda = busquedaActual;
+            }
+            ViewData["BusquedaActual"] = busqueda;
+
+            if (pageNumber < 1) { pageNumber = 1; }
+
+            Parametros parametros = new Parametros()
+            {
+                PageNumber = pageNumber,
+                PageSize = 4
+            };
+
+            var resultado = _unidadTrabajo.Producto.ObtenerTodosPaginado(parametros);
+
+            if (!String.IsNullOrEmpty(busqueda))
+            {
+                resultado = _unidadTrabajo.Producto.ObtenerTodosPaginado(parametros, p => p.Descripcion.Contains(busqueda));
+            }
+
+            ViewData["TotalPaginas"] = resultado.MetaData.TotalPages;
+            ViewData["TotalRegistros"] = resultado.MetaData.TotalCount;
+            ViewData["PageSize"] = resultado.MetaData.PageSize;
+            ViewData["PageNumber"] = pageNumber;
+            ViewData["Previo"] = "disabled";  // clase css para desactivar el boton
+            ViewData["Siguiente"] = "";
+
+            if (pageNumber > 1) { ViewData["Previo"] = ""; }
+            if (resultado.MetaData.TotalPages <= pageNumber) { ViewData["Siguiente"] = "disabled"; }
+
+            return View(resultado);
         }
 
         public IActionResult Privacy()
