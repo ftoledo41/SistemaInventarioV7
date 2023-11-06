@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oCScfVD68MDkRcadYrKSCU0jRahxXtHHLKefdM1mOys=",
+  "Hash": "Hfl8I9pyYMkHzJ41VQ+Lnp3zBg3YeNLgdA6WAKF7cCo=",
   "Source": "SistemaInventarioV7",
   "BasePath": "_content/SistemaInventarioV7",
   "Mode": "Default",
@@ -85,6 +85,40 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Cursos\\Udemy\\.Net\\GuiaCompletaASP.NETCoreMVC_Net 7.0\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\Imagenes\\Producto\\d20b0263-9881-40a9-b90a-1975358b9fd1.JPG",
+      "SourceId": "SistemaInventarioV7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Cursos\\Udemy\\.Net\\GuiaCompletaASP.NETCoreMVC_Net 7.0\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\",
+      "BasePath": "_content/SistemaInventarioV7",
+      "RelativePath": "Imagenes/Producto/d20b0263-9881-40a9-b90a-1975358b9fd1.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Producto\\d20b0263-9881-40a9-b90a-1975358b9fd1.JPG"
+    },
+    {
+      "Identity": "C:\\Cursos\\Udemy\\.Net\\GuiaCompletaASP.NETCoreMVC_Net 7.0\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\Imagenes\\Producto\\f3ee6c48-9b26-4e80-9e17-e2b7e4541414.JPG",
+      "SourceId": "SistemaInventarioV7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Cursos\\Udemy\\.Net\\GuiaCompletaASP.NETCoreMVC_Net 7.0\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\",
+      "BasePath": "_content/SistemaInventarioV7",
+      "RelativePath": "Imagenes/Producto/f3ee6c48-9b26-4e80-9e17-e2b7e4541414.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Producto\\f3ee6c48-9b26-4e80-9e17-e2b7e4541414.JPG"
+    },
+    {
       "Identity": "C:\\Cursos\\Udemy\\.Net\\GuiaCompletaASP.NETCoreMVC_Net 7.0\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\js\\Bodega.js",
       "SourceId": "SistemaInventarioV7",
       "SourceType": "Discovered",
@@ -134,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Marca.js"
+    },
+    {
+      "Identity": "C:\\Cursos\\Udemy\\.Net\\GuiaCompletaASP.NETCoreMVC_Net 7.0\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\js\\Producto.js",
+      "SourceId": "SistemaInventarioV7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Cursos\\Udemy\\.Net\\GuiaCompletaASP.NETCoreMVC_Net 7.0\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\",
+      "BasePath": "_content/SistemaInventarioV7",
+      "RelativePath": "js/Producto.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Producto.js"
     },
     {
       "Identity": "C:\\Cursos\\Udemy\\.Net\\GuiaCompletaASP.NETCoreMVC_Net 7.0\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\js\\site.js",

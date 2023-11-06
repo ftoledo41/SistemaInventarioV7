@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\SistemaInventarioV7.bundle.scp.css"
     },
     {
+      "Id": "C:\\Cursos\\Udemy\\.Net\\GuiaCompletaASP.NETCoreMVC_Net 7.0\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\Imagenes\\Producto\\d20b0263-9881-40a9-b90a-1975358b9fd1.JPG",
+      "PackagePath": "staticwebassets\\Imagenes\\Producto\\d20b0263-9881-40a9-b90a-1975358b9fd1.JPG"
+    },
+    {
+      "Id": "C:\\Cursos\\Udemy\\.Net\\GuiaCompletaASP.NETCoreMVC_Net 7.0\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\Imagenes\\Producto\\f3ee6c48-9b26-4e80-9e17-e2b7e4541414.JPG",
+      "PackagePath": "staticwebassets\\Imagenes\\Producto\\f3ee6c48-9b26-4e80-9e17-e2b7e4541414.JPG"
+    },
+    {
       "Id": "C:\\Cursos\\Udemy\\.Net\\GuiaCompletaASP.NETCoreMVC_Net 7.0\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -23,6 +31,10 @@
     {
       "Id": "C:\\Cursos\\Udemy\\.Net\\GuiaCompletaASP.NETCoreMVC_Net 7.0\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\js\\Marca.js",
       "PackagePath": "staticwebassets\\js\\Marca.js"
+    },
+    {
+      "Id": "C:\\Cursos\\Udemy\\.Net\\GuiaCompletaASP.NETCoreMVC_Net 7.0\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\js\\Producto.js",
+      "PackagePath": "staticwebassets\\js\\Producto.js"
     },
     {
       "Id": "C:\\Cursos\\Udemy\\.Net\\GuiaCompletaASP.NETCoreMVC_Net 7.0\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\js\\site.js",

@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
-    <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-SistemaInventarioV7-bc8489f2-12bd-4286-bb3f-79a1fa0adbee</UserSecretsId>
   </PropertyGroup>
@@ -19,6 +18,7 @@
 
   <ItemGroup>
     <Folder Include="Models\" />
+    <Folder Include="wwwroot\Imagenes\Producto\" />
   </ItemGroup>
 
   <ItemGroup>

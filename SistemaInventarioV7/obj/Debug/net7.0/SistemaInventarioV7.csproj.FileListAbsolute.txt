@@ -565,3 +565,5 @@ C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\Sist
 C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7\obj\Debug\net7.0\SistemaInventarioV7.MvcApplicationPartsAssemblyInfo.cs
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
