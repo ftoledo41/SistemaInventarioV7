@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets\\js\\Producto.js"
     },
     {
+      "Id": "C:\\Cursos\\Udemy\\.Net\\GuiaCompletaASP.NETCoreMVC_Net 7.0\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\js\\Usuario.js",
+      "PackagePath": "staticwebassets\\js\\Usuario.js"
+    },
+    {
       "Id": "C:\\Cursos\\Udemy\\.Net\\GuiaCompletaASP.NETCoreMVC_Net 7.0\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
