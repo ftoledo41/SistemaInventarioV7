@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using SistemaInventarioV7.AccesoDatos.Repositorio.IRepositorio;
 using SistemaInventarioV7.Modelos;
 using SistemaInventarioV7.Modelos.ViewModels;
@@ -7,6 +8,8 @@ using SistemaInventarioV7.Utilidades;
 namespace SistemaInventarioV7.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = DS.Role_Admin)]
+    [Authorize(Roles = DS.Role_Admin + "," + DS.Role_Inventario)]
     public class ProductoController : Controller
     {
         //Con esto ya podemos utilizar todo lo que envuelve a la unidad de trabajo
