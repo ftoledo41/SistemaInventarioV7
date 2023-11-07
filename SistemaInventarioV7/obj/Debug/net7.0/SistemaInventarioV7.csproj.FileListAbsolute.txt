@@ -595,3 +595,4 @@ C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\Sist
 C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\libman.json
