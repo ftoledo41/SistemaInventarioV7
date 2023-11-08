@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\Imagenes\\Producto\\f3ee6c48-9b26-4e80-9e17-e2b7e4541414.JPG"
     },
     {
+      "Id": "C:\\Cursos\\Udemy\\.Net\\GuiaCompletaASP.NETCoreMVC_Net 7.0\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\Imagenes\\confirmacion.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\confirmacion.jpg"
+    },
+    {
       "Id": "C:\\Cursos\\Udemy\\.Net\\GuiaCompletaASP.NETCoreMVC_Net 7.0\\SistemaInventarioV7\\SistemaInventarioV7\\wwwroot\\Imagenes\\icono.ico",
       "PackagePath": "staticwebassets\\Imagenes\\icono.ico"
     },

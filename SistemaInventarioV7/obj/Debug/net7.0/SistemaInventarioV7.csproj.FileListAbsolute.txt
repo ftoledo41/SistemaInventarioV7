@@ -599,3 +599,4 @@ C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\Sist
 C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\Rotativa\Windows\wkhtmltoimage.exe
 C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\Rotativa\Windows\wkhtmltopdf.exe
 C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\Rotativa.AspNetCore.dll
+C:\Cursos\Udemy\.Net\GuiaCompletaASP.NETCoreMVC_Net 7.0\SistemaInventarioV7\SistemaInventarioV7\bin\Debug\net7.0\Stripe.net.dll
